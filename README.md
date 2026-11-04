@@ -1,3 +1,12 @@
+**This repository is no longer maintained.** Development continues in the Nice UI monorepo.
+
+- New location: https://github.com/niceprototypes/nice-ux/tree/main/packages/tooltip
+- New npm package: `@niceprototypes/tooltip`
+
+---
+
+# Legacy documentation
+
 # nice-react-tooltip
 
 A tooltip component for React. Wraps any element as the trigger and renders an
